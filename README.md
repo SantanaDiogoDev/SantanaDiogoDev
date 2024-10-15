@@ -1,5 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogofsantana/">
+    <img src="https://img.shields.io/badge/Diogo%20Santana-white?style=social&logo=linkedin&color=white" alt="Linkedin" />
+ </a>
 
+Software Engineer with experience in planning and developing applications. Passionate about programming and learning new technologies.
+Professional experience includes Java, Javascript, Angular, Spring, and SQL, along with personal projects involving Kotlin and ReactJS.
 <!--
 **SantanaDiogoDev/SantanaDiogoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
